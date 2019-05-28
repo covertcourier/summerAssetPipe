@@ -629,3 +629,25 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.05.28-19.50.52:540][354]LogShaderCompilers: Display: Shaders left to compile 2
 [2019.05.28-19.50.52:598][358]LogShaderCompilers: Display: Shaders left to compile 1
 [2019.05.28-19.50.55:041][577]LogSlate: Window 'woodenMaterial1' being destroyed
+[2019.05.28-20.02.55:033][848]LogFileHelpers: Editor autosave (incl. sublevels) for '/Temp/Untitled_1' took 0.020
+[2019.05.28-20.02.55:036][848]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/woodMaterials/woodenMaterial1_Inst] ([1] browsable assets)...
+[2019.05.28-20.02.55:057][848]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/woodMaterials/woodenMaterial1_Inst.woodenMaterial1_Inst]
+[2019.05.28-20.02.55:057][848]OBJ SavePackage: Finished generating thumbnails for package [/Game/woodMaterials/woodenMaterial1_Inst]
+[2019.05.28-20.02.55:082][848]LogSavePackage: Moving '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Saved/woodenMaterial1_Inst_Auto173AA49A04F82D075387225BA87D41F23.tmp' to '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Saved/Autosaves/Game/woodMaterials/woodenMaterial1_Inst_Auto1.uasset'
+[2019.05.28-20.02.55:085][848]LogFileHelpers: Auto-saving content packages took 0.051
+[2019.05.28-20.12.19:296][830]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodMaterials/woodenMaterial1_Inst.woodenMaterial1_Inst
+[2019.05.28-20.12.19:435][830]LogRenderer: Reallocating scene render targets to support 1336x924 Format 10 NumSamples 1 (Frame:1).
+[2019.05.28-20.13.11:889][905]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy woodenMaterial1_Inst, compiling. 
+[2019.05.28-20.13.12:213][905]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.28-20.13.12:216][905]TextureStreamingBuild: Display: Compiling optional shaders took 0.333 seconds.
+[2019.05.28-20.13.12:265][905]LogSavePackage: Moving '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Saved/woodenMaterial1_InstCAF793224A53ED16B1E18FA67F6F2A4B.tmp' to '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Content/woodMaterials/woodenMaterial1_Inst.uasset'
+[2019.05.28-20.13.28:545][230]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/woodMaterials/woodenMaterial1_Inst1.woodenMaterial1_Inst1
+[2019.05.28-20.13.49:636][117]LogSlate: Window 'Color Picker' being destroyed
+[2019.05.28-20.15.01:084][745]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.05.28-20.15.33:943][ 97]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.05.28-20.15.33:987][ 97]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy woodenMaterial1_Inst1, compiling. 
+[2019.05.28-20.15.34:312][ 97]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.05.28-20.15.34:313][ 97]TextureStreamingBuild: Display: Compiling optional shaders took 0.330 seconds.
+[2019.05.28-20.15.34:351][ 97]LogSavePackage: Moving '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Saved/woodenMaterial1_Inst1CD464EC741E54AF6FE6CB78FC220C7CE.tmp' to '../../../../../../Users/u1111303/Documents/GitHub/summerAssetPipe/woodBlocks/WoodBlockMaterials/Content/woodMaterials/woodenMaterial1_Inst1.uasset'
+[2019.05.28-20.16.11:952][194]LogSlate: Window 'woodenMaterial1_Inst1' being destroyed
+[2019.05.28-20.16.11:956][194]LogSlate: Window 'woodenMaterial1_Inst1' being destroyed
