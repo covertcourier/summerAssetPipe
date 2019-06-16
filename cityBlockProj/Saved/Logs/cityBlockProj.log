@@ -989,3 +989,322 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.06.16-07.44.06:357][441]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelD1F0A4D64EF784E538B66C961FE2F374.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
 [2019.06.16-07.44.06:380][441]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
 [2019.06.16-07.44.06:418][441]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData355A7FB0463267B1D1BE95A0E1BD04E6.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-07.44.43:040][319]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-07.44.43:339][354]LogActorFactory: Actor Factory created square_platform
+[2019.06.16-07.44.45:085][550]LogActorFactory: Actor Factory created square_platform
+[2019.06.16-07.45.16:662][  7]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-07.45.36:372][267]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-07.45.57:896][827]Cmd: EDIT COPY
+[2019.06.16-07.45.58:274][872]Cmd: EDIT PASTE
+[2019.06.16-07.46.07:799][980]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_1)
+[2019.06.16-07.46.09:007][120]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_4)
+[2019.06.16-07.46.14:205][739]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_1)
+[2019.06.16-07.46.15:068][838]Cmd: EDIT COPY
+[2019.06.16-07.46.15:584][899]Cmd: EDIT PASTE
+[2019.06.16-07.46.21:342][582]Cmd: DELETE
+[2019.06.16-07.46.21:342][582]Cmd: ACTOR DELETE
+[2019.06.16-07.46.21:354][582]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.16-07.46.21:381][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.06.16-07.46.21:382][582]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.06.16-07.46.23:080][764]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-07.46.23:315][790]LogActorFactory: Actor Factory created stair_1
+[2019.06.16-07.46.24:027][873]LogActorFactory: Actor Factory created stair_1
+[2019.06.16-07.47.39:256][842]Cmd: EDIT COPY
+[2019.06.16-07.47.39:617][885]Cmd: EDIT PASTE
+[2019.06.16-07.48.11:329][437]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-07.48.39:432][595]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_7)
+[2019.06.16-07.48.43:826][112]Cmd: EDIT COPY
+[2019.06.16-07.48.44:394][180]Cmd: EDIT PASTE
+[2019.06.16-07.48.53:377][235]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-07.49.13:440][634]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-07.49.30:633][680]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_9)
+[2019.06.16-07.49.45:508][453]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_8)
+[2019.06.16-07.49.46:219][534]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-07.50.13:519][803]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform3)
+[2019.06.16-07.50.15:297][ 10]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform8)
+[2019.06.16-07.50.23:829][  9]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-07.50.23:840][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-07.50.23:870][  9]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.06.16-07.50.24:580][  9]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel4CE1271D40F1E9FD3ED3F682FBAC1A53.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-07.50.24:620][  9]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-07.50.24:659][  9]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData3B0FA1854DD904B9CFDB9FB2DF9D77E1.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-07.54.32:402][586]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.00.24:239][893]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.06.16-08.00.24:239][893]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/streetlevel' took 0.041
+[2019.06.16-08.00.24:240][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert3] ([1] browsable assets)...
+[2019.06.16-08.00.24:374][893]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert3.lambert3]
+[2019.06.16-08.00.24:374][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert3]
+[2019.06.16-08.00.24:374][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert3" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert3_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.00.24:396][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/lambert3_Auto3CE666E1F42B1260073D1D6AFB99FFF23.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert3_Auto3.uasset'
+[2019.06.16-08.00.24:397][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/tree_mid] ([1] browsable assets)...
+[2019.06.16-08.00.24:422][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/tree_mid.tree_mid]
+[2019.06.16-08.00.24:422][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/tree_mid]
+[2019.06.16-08.00.24:422][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tree_mid" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tree_mid_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.00.24:438][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/tree_mid_Auto363291D124509DF277D56E1805C78C383.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tree_mid_Auto3.uasset'
+[2019.06.16-08.00.24:440][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert2] ([1] browsable assets)...
+[2019.06.16-08.00.24:451][893]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert2.lambert2]
+[2019.06.16-08.00.24:451][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert2]
+[2019.06.16-08.00.24:451][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert2" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert2_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.00.24:463][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/lambert2_Auto362E638D1468900C739A32F90EF20EB17.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert2_Auto3.uasset'
+[2019.06.16-08.00.24:464][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/tree_top] ([1] browsable assets)...
+[2019.06.16-08.00.24:474][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/tree_top.tree_top]
+[2019.06.16-08.00.24:474][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/tree_top]
+[2019.06.16-08.00.24:474][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tree_top" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tree_top_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.00.24:489][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/tree_top_Auto3632351884F372418FD41719429A256CB.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tree_top_Auto3.uasset'
+[2019.06.16-08.00.24:490][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/cylinder_small] ([1] browsable assets)...
+[2019.06.16-08.00.24:502][893]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/cylinder_small.cylinder_small]
+[2019.06.16-08.00.24:502][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/cylinder_small]
+[2019.06.16-08.00.24:517][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/cylinder_small_Auto3991D191D40CA38E4B5BF96A62DEA881B.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/cylinder_small_Auto3.uasset'
+[2019.06.16-08.00.24:518][893]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert4] ([1] browsable assets)...
+[2019.06.16-08.00.24:530][893]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert4.lambert4]
+[2019.06.16-08.00.24:530][893]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert4]
+[2019.06.16-08.00.24:530][893]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert4" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert4_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.00.24:543][893]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/lambert4_Auto3F2626F3146263364866345BB4AB1D331.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert4_Auto3.uasset'
+[2019.06.16-08.00.24:544][893]LogFileHelpers: Auto-saving content packages took 0.305
+[2019.06.16-08.12.30:660][799]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/naomi/Documents/blocks/tori_gate.fbx)
+[2019.06.16-08.12.30:669][799]LogFbx: Loading FBX Scene from ../../../../../../Users/naomi/Documents/blocks/tori_gate.fbx
+[2019.06.16-08.12.30:676][799]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.16-08.12.32:312][799]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.16-08.12.32:339][799]LogMaterial: Display: Missing cached shader map for material lambert5, compiling. 
+[2019.06.16-08.12.32:355][799]LogFbx: Display: Triangulating static mesh pCube6
+[2019.06.16-08.12.32:428][799]LogStaticMesh: Building static mesh tori_gate...
+[2019.06.16-08.12.32:437][799]LogStaticMesh: Built static mesh [0.01s] /Game/tori_gate.tori_gate
+[2019.06.16-08.12.32:449][799]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.16-08.12.34:253][947]LogSlate: Window 'Message Log' being destroyed
+[2019.06.16-08.12.34:257][947]LogSlate: Window 'Message Log' being destroyed
+[2019.06.16-08.12.35:931][104]LogActorFactory: Actor Factory created tori_gate
+[2019.06.16-08.12.37:066][233]LogActorFactory: Actor Factory created tori_gate
+[2019.06.16-08.12.45:949][289]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.13.13:927][622]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.13.37:905][459]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_4)
+[2019.06.16-08.13.43:469][120]Cmd: TRANSACTION UNDO
+[2019.06.16-08.13.43:469][120]LogEditorTransaction: Undo Move Actors
+[2019.06.16-08.13.46:638][492]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate)
+[2019.06.16-08.14.42:693][166]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate)
+[2019.06.16-08.15.00:355][259]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate)
+[2019.06.16-08.15.10:880][509]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate)
+[2019.06.16-08.15.27:047][432]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_roof4)
+[2019.06.16-08.15.49:297][ 63]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.15.49:307][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.15.49:334][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2019.06.16-08.15.49:981][ 63]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel12E4ADE44CB9FFA2D91EE7A7D3D4E674.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.15.50:004][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.15.50:042][ 63]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataCF836635482003A65D170FB7DD98CF97.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.16.07:003][958]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.16.07:222][983]LogActorFactory: Actor Factory created square_platform
+[2019.06.16-08.16.07:958][ 61]LogActorFactory: Actor Factory created square_platform
+[2019.06.16-08.16.12:400][586]Cmd: TRANSACTION UNDO
+[2019.06.16-08.16.12:400][586]LogEditorTransaction: Undo Scale Actors
+[2019.06.16-08.16.42:668][165]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.17.06:490][838]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.17.27:963][358]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.17.48:818][726]Cmd: TRANSACTION UNDO
+[2019.06.16-08.17.48:818][726]LogEditorTransaction: Undo Set Scale
+[2019.06.16-08.17.49:161][757]Cmd: TRANSACTION UNDO
+[2019.06.16-08.17.49:161][757]LogEditorTransaction: Undo Set Scale
+[2019.06.16-08.17.49:599][799]Cmd: TRANSACTION UNDO
+[2019.06.16-08.17.49:599][799]LogEditorTransaction: Undo Set Scale
+[2019.06.16-08.18.07:435][750]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.18.15:094][524]Cmd: TRANSACTION UNDO
+[2019.06.16-08.18.15:094][524]LogEditorTransaction: Undo Set Scale
+[2019.06.16-08.18.36:775][937]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.18.36:983][961]LogActorFactory: Actor Factory created lantern_box
+[2019.06.16-08.18.40:442][343]LogActorFactory: Actor Factory created lantern_box
+[2019.06.16-08.18.58:035][437]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform16)
+[2019.06.16-08.18.59:366][577]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.19.17:879][729]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_4)
+[2019.06.16-08.19.20:054][983]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_box2)
+[2019.06.16-08.19.38:353][162]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.19.59:309][661]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform8)
+[2019.06.16-08.20.17:262][542]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.20.31:202][755]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform8)
+[2019.06.16-08.20.31:999][845]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.20.32:011][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.20.32:039][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.06.16-08.20.32:683][845]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelDBE62ADE43309A89CCD8ECB2FD48B424.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.20.32:706][845]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.20.32:745][845]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataF38C97FF48C942CD2BD36B8FE3B718D2.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.20.34:321][ 20]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate)
+[2019.06.16-08.20.38:434][508]Cmd: EDIT COPY
+[2019.06.16-08.20.39:493][635]Cmd: EDIT PASTE
+[2019.06.16-08.21.08:160][ 49]Cmd: EDIT COPY
+[2019.06.16-08.21.08:646][107]Cmd: EDIT PASTE
+[2019.06.16-08.21.22:445][752]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.21.45:035][443]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate3)
+[2019.06.16-08.21.57:477][925]LogEditorViewport: Clicking Background
+[2019.06.16-08.22.02:326][504]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.22.02:337][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.22.02:370][504]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2019.06.16-08.22.03:071][504]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel1AA39DFB48B084A709210FAE240DBA3E.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.22.03:094][504]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.22.03:132][504]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData553C239B4F5E2B4D7A2AA7AD1CCAA9F9.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.22.27:612][424]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_1)
+[2019.06.16-08.22.29:005][586]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_4)
+[2019.06.16-08.22.41:979][123]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.22.44:062][318]LogActorFactory: Actor Factory created stair_2
+[2019.06.16-08.22.45:197][445]LogActorFactory: Actor Factory created stair_2
+[2019.06.16-08.22.51:430][179]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_10)
+[2019.06.16-08.22.59:201][101]Cmd: TRANSACTION UNDO
+[2019.06.16-08.22.59:201][101]LogEditorTransaction: Undo Move Actors
+[2019.06.16-08.23.00:309][222]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.23.18:373][369]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (mann)
+[2019.06.16-08.23.30:672][828]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_10)
+[2019.06.16-08.23.33:044][108]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.23.49:329][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.23.59:532][265]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.23.59:543][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.23.59:572][265]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.06.16-08.24.00:271][265]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel4798B0E64DD84C51CF71919CDEF8550F.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.24.00:295][265]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.24.00:330][265]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataE6610C6448E14E788B7D7ABE670E0968.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.24.06:667][979]Cmd: EDIT COPY
+[2019.06.16-08.24.07:401][ 52]Cmd: EDIT PASTE
+[2019.06.16-08.24.37:898][664]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_11)
+[2019.06.16-08.24.46:211][635]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_roof3)
+[2019.06.16-08.26.22:567][227]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.26.28:924][938]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid)
+[2019.06.16-08.26.33:808][511]Cmd: EDIT COPY
+[2019.06.16-08.26.34:183][555]Cmd: EDIT PASTE
+[2019.06.16-08.26.46:631][ 34]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid)
+[2019.06.16-08.26.54:823][999]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.27.08:915][681]Cmd: TRANSACTION UNDO
+[2019.06.16-08.27.08:915][681]LogEditorTransaction: Undo Move Actors
+[2019.06.16-08.27.10:100][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.27.19:979][993]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.27.27:448][883]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.27.35:628][848]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.27.35:638][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.27.35:666][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.06.16-08.27.36:318][848]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelA9AD1AF949179238F527F788AC3B18AA.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.27.36:339][848]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.27.36:378][848]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData75B8BD63444B62586FF706AF49209340.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.27.55:817][148]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid)
+[2019.06.16-08.28.00:869][726]Cmd: EDIT COPY
+[2019.06.16-08.28.01:255][772]Cmd: EDIT PASTE
+[2019.06.16-08.28.16:206][550]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid5)
+[2019.06.16-08.28.22:825][327]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid7)
+[2019.06.16-08.28.25:794][670]Cmd: EDIT COPY
+[2019.06.16-08.28.26:268][726]Cmd: EDIT PASTE
+[2019.06.16-08.28.33:130][531]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.28.33:141][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-08.28.33:170][531]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2019.06.16-08.28.33:884][531]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel0071AD3343C47A9F62924C8AECBF3486.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-08.28.33:908][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-08.28.33:943][531]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataDAF9F7624590C4F8BCBE768D88813FFD.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-08.28.35:887][750]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tori_gate3)
+[2019.06.16-08.28.36:840][859]Cmd: EDIT COPY
+[2019.06.16-08.28.37:243][907]Cmd: EDIT PASTE
+[2019.06.16-08.28.54:711][981]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform16)
+[2019.06.16-08.28.59:380][530]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_box2)
+[2019.06.16-08.29.23:398][781]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-08.29.27:705][240]LogActorFactory: Actor Factory created lantern_roof
+[2019.06.16-08.29.30:652][572]LogActorFactory: Actor Factory created lantern_roof
+[2019.06.16-08.29.32:806][826]Cmd: DELETE
+[2019.06.16-08.29.32:806][826]Cmd: ACTOR DELETE
+[2019.06.16-08.29.32:818][826]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.16-08.29.32:845][826]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2019.06.16-08.29.32:846][826]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.06.16-08.29.47:565][628]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-08.38.33:430][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2019.06.16-08.38.34:262][320]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_Auto4919D1AD342F985E4BBC38B94235CC693.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/streetlevel_Auto4.umap'
+[2019.06.16-08.38.34:265][320]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/streetlevel' took 0.861
+[2019.06.16-08.38.34:265][320]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.861
+[2019.06.16-08.38.34:295][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/tori_gate] ([1] browsable assets)...
+[2019.06.16-08.38.34:327][320]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/tori_gate.tori_gate]
+[2019.06.16-08.38.34:327][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/tori_gate]
+[2019.06.16-08.38.34:327][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/tori_gate" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tori_gate_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.38.34:341][320]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/tori_gate_Auto431F7D8A04DE2215FCF1872A2204BAB8E.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/tori_gate_Auto4.uasset'
+[2019.06.16-08.38.34:342][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/lambert5] ([1] browsable assets)...
+[2019.06.16-08.38.34:370][320]OBJ SavePackage:     Rendered thumbnail for [Material /Game/lambert5.lambert5]
+[2019.06.16-08.38.34:370][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/lambert5]
+[2019.06.16-08.38.34:370][320]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/lambert5" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert5_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2019.06.16-08.38.34:382][320]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/lambert5_Auto4C7FD1F804F62F86B7E362E9EE064E2DE.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/Autosaves/Game/lambert5_Auto4.uasset'
+[2019.06.16-08.38.34:382][320]LogFileHelpers: Auto-saving content packages took 0.088
+[2019.06.16-08.59.41:551][224]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/naomi/Documents/blocks/fox.fbx)
+[2019.06.16-08.59.41:562][224]LogFbx: Loading FBX Scene from ../../../../../../Users/naomi/Documents/blocks/fox.fbx
+[2019.06.16-08.59.41:568][224]LogFbx: FBX Scene Loaded Succesfully
+[2019.06.16-08.59.42:887][224]LogSlate: Window 'FBX Import Options' being destroyed
+[2019.06.16-08.59.42:912][224]LogMaterial: Display: Missing cached shader map for material lambert6, compiling. 
+[2019.06.16-08.59.42:927][224]LogFbx: Display: Triangulating static mesh pSphere2
+[2019.06.16-08.59.43:001][224]LogStaticMesh: Building static mesh fox...
+[2019.06.16-08.59.43:006][224]LogStaticMesh: Built static mesh [0.01s] /Game/fox.fox
+[2019.06.16-08.59.43:017][224]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2019.06.16-08.59.44:898][328]LogSlate: Window 'Message Log' being destroyed
+[2019.06.16-08.59.44:901][328]LogSlate: Window 'Message Log' being destroyed
+[2019.06.16-08.59.46:847][444]LogActorFactory: Actor Factory created fox
+[2019.06.16-08.59.50:133][641]LogActorFactory: Actor Factory created fox
+[2019.06.16-08.59.53:091][817]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-08.59.59:348][191]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-09.00.27:133][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform8)
+[2019.06.16-09.00.31:988][141]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-09.00.31:999][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-09.00.32:027][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2019.06.16-09.00.32:690][141]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel370FFC4A45FC4B6EB6A5BD985458DC92.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-09.00.32:717][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-09.00.32:755][141]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataACE728AB47B0823C97C2C0BB97CE9555.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-09.00.34:784][254]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform16)
+[2019.06.16-09.00.40:126][567]Cmd: EDIT COPY
+[2019.06.16-09.00.40:612][596]Cmd: EDIT PASTE
+[2019.06.16-09.00.47:461][  4]Cmd: EDIT PASTE
+[2019.06.16-09.00.54:288][408]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.00.56:715][553]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.00.59:147][698]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.01.00:917][803]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.01.02:678][907]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.01.04:218][997]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.01.16:518][728]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_box6)
+[2019.06.16-09.01.17:227][768]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fox3)
+[2019.06.16-09.01.19:525][903]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform18)
+[2019.06.16-09.01.24:720][211]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (square_platform18)
+[2019.06.16-09.01.26:707][329]Cmd: DELETE
+[2019.06.16-09.01.26:707][329]Cmd: ACTOR DELETE
+[2019.06.16-09.01.26:720][329]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.06.16-09.01.26:746][329]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2019.06.16-09.01.26:747][329]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2019.06.16-09.01.27:912][399]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (lantern_box6)
+[2019.06.16-09.01.40:157][126]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2019.06.16-09.02.02:391][446]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-09.02.02:401][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-09.02.02:428][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2019.06.16-09.02.03:080][446]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelAD8F77244C7341622EC20C8DFFDDBAB5.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-09.02.03:102][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-09.02.03:136][446]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData106C496940816B14B1290A9811432106.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-09.02.10:750][899]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_top2)
+[2019.06.16-09.02.12:212][984]Cmd: EDIT COPY
+[2019.06.16-09.02.13:012][ 32]Cmd: EDIT PASTE
+[2019.06.16-09.02.15:201][159]Cmd: TRANSACTION UNDO
+[2019.06.16-09.02.15:201][159]LogEditorTransaction: Undo Move Actors
+[2019.06.16-09.02.16:075][211]Cmd: TRANSACTION UNDO
+[2019.06.16-09.02.16:075][211]LogEditorTransaction: Undo Paste
+[2019.06.16-09.02.19:560][408]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (tree_mid3)
+[2019.06.16-09.02.26:694][830]Cmd: EDIT COPY
+[2019.06.16-09.02.27:348][869]Cmd: EDIT PASTE
+[2019.06.16-09.02.56:580][606]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-09.02.56:590][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-09.02.56:620][606]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2019.06.16-09.02.57:286][606]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel24019CC544B8BA3BFE4B8AA889D184D1.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-09.02.57:309][606]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-09.02.57:343][606]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData1686E4324535CFD19C22528A6B503541.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-09.03.03:234][953]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fox3)
+[2019.06.16-09.03.05:482][ 83]Cmd: EDIT COPY
+[2019.06.16-09.03.05:899][108]Cmd: EDIT PASTE
+[2019.06.16-09.03.26:143][308]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-09.03.26:153][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-09.03.26:181][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2019.06.16-09.03.26:841][308]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelF2867B6B460AB0CD843B47B3D96048BE.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-09.03.26:862][308]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-09.03.26:922][308]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltData8F6F0962471FBFC1D1030CAECE7F1E34.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
+[2019.06.16-09.03.50:687][727]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (fox)
+[2019.06.16-09.04.11:148][946]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_11)
+[2019.06.16-09.04.12:172][  5]Cmd: EDIT COPY
+[2019.06.16-09.04.12:539][ 27]Cmd: EDIT PASTE
+[2019.06.16-09.04.14:985][171]Cmd: TRANSACTION UNDO
+[2019.06.16-09.04.14:985][171]LogEditorTransaction: Undo Move Actors
+[2019.06.16-09.04.15:885][224]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.06.16-09.04.22:066][591]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (stair_12)
+[2019.06.16-09.04.22:925][640]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.06.16-09.04.22:935][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2019.06.16-09.04.22:963][640]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2019.06.16-09.04.23:626][640]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevelCA332C7F41AE1B7B5C7985AA87941A27.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel.umap'
+[2019.06.16-09.04.23:648][640]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/streetlevel_BuiltData" FILE="../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset" SILENT=true
+[2019.06.16-09.04.23:682][640]LogSavePackage: Moving '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Saved/streetlevel_BuiltDataA0EBA608439E10309F6A1A94323E784A.tmp' to '../../../../../../Users/naomi/Documents/GitHub/summerAssetPipe/cityBlockProj/Content/streetlevel_BuiltData.uasset'
